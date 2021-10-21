@@ -2,7 +2,7 @@
 #include <vector>
 #include <functional>
 #include <algorithm>
-//it's a count_if func
+//it's a stl ount_if func
 using namespace std;
 
 int main() {
